@@ -12,3 +12,5 @@ pnpm dev:h5
 
 ## 演示说明
 ![interfaceNotSupport](./interfaceNotSupport.gif)
+![requestFullScreen](./requestFullScreen.gif)
+![exitFullScreen](./exitFullScreen.gif)
